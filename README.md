@@ -55,15 +55,6 @@ Preparando la certificación **Burp Suite Certified Practitioner**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroMatito&show_icons=true&theme=tokyonight&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMatito&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
 ## 🧠 Formación Continua
 
 - eJPT (INE Security)
