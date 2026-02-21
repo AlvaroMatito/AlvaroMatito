@@ -43,7 +43,7 @@ Preparando la certificación **Burp Suite Certified Practitioner**.
 ## 🛠 Stack Técnico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,bash,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,bash,linux,git" />
 </p>
 
 <p align="center">
