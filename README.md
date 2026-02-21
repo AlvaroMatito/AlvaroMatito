@@ -5,19 +5,19 @@
 </h1>
 
 <p align="center">
-  🎓 Último año de Ingeniería Informática <br>
+  🎓 Estudiante de Último año de Ingeniería Informática <br>
   🎓 Máster en Dirección de Ciberseguridad, Hacking Ético y Seguridad Ofensiva <br>
   🔐 Enfocado en Ciberseguridad Ofensiva
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/alvaro-matito-2a4945307">
     <img src="https://img.shields.io/badge/LinkedIn-Álvaro-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://TUWEB.com">
+  <a href="https://www.alvmat.com">
     <img src="https://img.shields.io/badge/Web-DD0N4L-black?style=for-the-badge&logo=vercel">
   </a>
-  <a href="https://app.hackthebox.com/profile/TU-ID">
+  <a href="https://app.hackthebox.com/public/users/2918839">
     <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
   </a>
 </p>
@@ -58,8 +58,8 @@ Preparando la certificación **Burp Suite Certified Practitioner**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroMatito&show_icons=true&theme=tokyonight&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMatito&layout=compact&theme=tokyonight" height="170">
 </p>
 
 ---
@@ -73,7 +73,3 @@ Preparando la certificación **Burp Suite Certified Practitioner**.
 - Estudio activo de CVEs y vulnerabilidades emergentes
 
 ---
-
-<p align="center">
-  ⚡ Siempre aprendiendo. Siempre construyendo. Siempre mejorando.
-</p>
